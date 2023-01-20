@@ -4,7 +4,7 @@ import 'package:biscuit2/Pages/Main_Screens/profile.dart';
 import 'package:flutter/material.dart';
 import 'Search.dart';
 import 'home.dart';
-import 'inbox.dart';
+import 'notification_page.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
@@ -26,7 +26,7 @@ class _HomePageState extends State<HomePage> {
     UserHomePage(),
     const UserSearchPage(),
     FeedScreen(),
-    UserInboxPage(),
+    NotificationsPage(),
     UserProfilePage(),
   ];
 

@@ -1,4 +1,5 @@
 import 'package:biscuit2/Pages/Auth/intro.dart';
+import 'package:biscuit2/Pages/Main_Screens/notification_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {

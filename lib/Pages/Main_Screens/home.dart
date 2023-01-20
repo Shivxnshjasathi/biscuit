@@ -1,6 +1,6 @@
-import 'package:biscuit2/Post2.dart';
-import 'package:biscuit2/post1.dart';
-import 'package:biscuit2/post3.dart';
+import 'package:biscuit2/temp/Post2.dart';
+import 'package:biscuit2/temp/post1.dart';
+import 'package:biscuit2/temp/post3.dart';
 import 'package:flutter/material.dart';
 
 class UserHomePage extends StatelessWidget {

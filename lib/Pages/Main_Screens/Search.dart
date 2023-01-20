@@ -93,7 +93,7 @@ class _UserSearchPage extends State<UserSearchPage> {
                                     style: GoogleFonts.alata(
                                       fontWeight: FontWeight.w400,
                                       color: Colors.white,
-                                      fontSize: 15,
+                                      fontSize: 12,
                                     ),
                                   ),
                                 ],
@@ -168,7 +168,7 @@ class _UserSearchPage extends State<UserSearchPage> {
                                     style: GoogleFonts.alata(
                                       fontWeight: FontWeight.w400,
                                       color: Colors.white,
-                                      fontSize: 15,
+                                      fontSize: 12,
                                     ),
                                   ),
                                 ],

@@ -1,10 +1,11 @@
 import 'dart:ui';
+import 'package:biscuit2/Pages/Auth/login.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:page_transition/page_transition.dart';
 
-import '../../Login.dart';
+
 import 'register.dart';
 
 class Intro extends StatefulWidget {

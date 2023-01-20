@@ -1,7 +1,8 @@
+import 'package:biscuit2/Pages/Auth/login.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:flutter/material.dart';
 import 'package:page_transition/page_transition.dart';
-import '../../Login.dart';
+
 import 'otp.dart';
 
 class Register extends StatefulWidget {
@@ -273,7 +274,7 @@ class _Register extends State<Register> {
                   PageTransition(
                     curve: Curves.linear,
                     type: PageTransitionType.bottomToTop,
-                    child: const Login(),
+                    child: Login(),
                   ),
                 );
               },
